@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**GathuE/GathuE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 My name is Emmanuel Gathu. 
+- ✨ I'm a Full Stack Web Application Developer.
+- 🔭 My current expertise is built on JavaScript PHP and MySQL.
+- 😄 I’m currently working on the following Website Projects.
+  1. https://parishotel.co.ke
+  2. https://buninutrition.co.ke
+  3. https://skyviewinternationaltechnicalcollege.com
+- 
+- 🌱 I’m currently learning React.js with GOMYCODE.
+- 👯 I’m looking to collaborate on innovative full stack web projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+      Phone : +254711530740
+      Email : gathuimmanuel@gmail.com
+      Whatsapp : wa.me/254711530740
+
+- ⚡ Fun fact: I am a self taught web Developer.Right from the Basics to my expertise level.
+
