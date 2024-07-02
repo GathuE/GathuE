@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning React.js with GOMYCODE.
 - 👯 I’m looking to collaborate on innovative full stack web projects.
 
-- 💬 Ask me about ...
+
 - 📫 How to reach me: 
       Phone : +254711530740
       Email : gathuimmanuel@gmail.com
