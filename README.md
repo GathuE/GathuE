@@ -17,5 +17,5 @@
       Email : gathuimmanuel@gmail.com
       Whatsapp : wa.me/254711530740
 
-- ⚡ Fun fact: I am a self taught web Developer.Right from the Basics to my expertise level.
+- ⚡ Fun fact: I am a self taught web Developer.Right from the Basics to my skill base level.
 
