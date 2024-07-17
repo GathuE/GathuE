@@ -2,7 +2,7 @@
 
 - 🤔 My name is Emmanuel Gathu. 
 - ✨ I'm a Full Stack Web Application Developer.
-- 🔭 My current expertise is built on HTML, CSS, JavaScript PHP and MySQL.
+- 🔭 My current expertise is built on HTML, CSS, JavaScript, React Js, PHP and MySQL.
 - 😄 I’m currently working on the following Website Projects.
   1. https://parishotel.co.ke
   2. https://buninutrition.co.ke
