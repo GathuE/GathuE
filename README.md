@@ -4,11 +4,11 @@
 - ✨ I'm a Full Stack Web Application Developer.
 - 🔭 My current expertise is built on HTML, CSS, JavaScript, React Js, PHP and MySQL.
 - 😄 I’m currently working on the following Website Projects.
+  
   1. https://parishotel.co.ke
-  2. https://buninutrition.co.ke
-  3. https://skyviewinternationaltechnicalcollege.com
+  2. https://skyviewinternationaltechnicalcollege.com
 - 
-- 🌱 I’m currently learning React.js with GOMYCODE.
+- 🌱 I’m currently learning MongoDB, Express, React, and Node. js with GOMYCODE.
 - 👯 I’m looking to collaborate on innovative full stack web projects.
 
 
