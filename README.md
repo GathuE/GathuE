@@ -18,4 +18,6 @@
       Whatsapp : wa.me/254711530740
 
 - ⚡ Fun fact: I am a self taught web Developer.Right from the Basics to my skill base level.
+- ✨ AChievements :
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5c9fb96e-10d6-43e6-8ae1-fdd05f03c616" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
