@@ -6,7 +6,7 @@
 - 😄 I’m currently working on the following Website Projects.
   
   1. https://parishotel.co.ke
-  2. https://skyviewinternationaltechnicalcollege.com
+  2. https://softtouchtech.co.ke
 - 
 - 🌱 I’m currently learning MongoDB, Express, React, and Node. js with GOMYCODE.
 - 👯 I’m looking to collaborate on innovative full stack web projects.
