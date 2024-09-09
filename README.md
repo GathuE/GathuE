@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🤔 My name is Emmanuel Gathu. 
 - ✨ I'm a Junior Full Stack Software Engineer.
 - 🔭 I love solving technical and complex problems by creating innovative and effective Software.
  
