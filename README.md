@@ -1,21 +1,13 @@
 ## Hi there 👋
 
 - 🤔 My name is Emmanuel Gathu. 
-- ✨ I'm a Full Stack Web Application Developer.
-- 🔭 My current expertise is built on HTML, CSS, JavaScript, React Js, PHP and MySQL.
-- 😄 I’m currently working on the following Website Projects.
-  
-  1. https://parishotel.co.ke
-  2. https://softtouchtech.co.ke
-- 
-- 🌱 I’m currently learning MongoDB, Express, React, and Node. js with GOMYCODE.
-- 👯 I’m looking to collaborate on innovative full stack web projects.
+- ✨ I'm a Junior Full Stack Software Engineer.
+- 🔭 I love solving technical and complex problems by creating innovative and effective Software.
+ 
+ 
+- 🌱 I’m currently learning MongoDB, Express, React, and Node. js.
+- 👯 I’m looking to collaborate on innovative full stack software projects.
 
 
-- 📫 How to reach me: 
-      Phone : +254711530740
-      Email : gathuimmanuel@gmail.com
-      Whatsapp : wa.me/254711530740
-
-- ⚡ Fun fact: I am a self taught web Developer.Right from the Basics to my skill base level.
+- ⚡ Fun fact: I'm self taught. Right from the Basics to my skill base level.
 
