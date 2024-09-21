@@ -10,3 +10,4 @@
 
 - ⚡ Fun fact: I'm self taught. Right from the Basics to my skill base level.
 
+- ⚡ Take a tour of some of my recent projects on https://gathu.softtouchtech.co.ke
